@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "allowJs": false,
+    "rootDir": ".",
+    "outDir": "build"
+  },
+  "include": ["src"]
+}
